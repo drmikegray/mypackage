@@ -13,3 +13,4 @@ Encoding: UTF-8
 LazyData: true
 URL: https://github.com/drmikegray/mypackage
 BugReports: https://github.com/drmikegray/mypackage/issues
+RoxygenNote: 7.0.0
